@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FurnitureGame", "FurnitureGame.csproj", "{2D39341D-9458-2A92-C4D0-539326EED30C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FurnitureGame.Plugins", "FurnitureGame.Plugins.csproj", "{6EBED170-39CA-DFDB-E63B-F9642B394655}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FurnitureGame.Editor", "FurnitureGame.Editor.csproj", "{D67D0337-9177-3E02-6D96-10C4E50779CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D39341D-9458-2A92-C4D0-539326EED30C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D39341D-9458-2A92-C4D0-539326EED30C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D39341D-9458-2A92-C4D0-539326EED30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D39341D-9458-2A92-C4D0-539326EED30C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EBED170-39CA-DFDB-E63B-F9642B394655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EBED170-39CA-DFDB-E63B-F9642B394655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EBED170-39CA-DFDB-E63B-F9642B394655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EBED170-39CA-DFDB-E63B-F9642B394655}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D67D0337-9177-3E02-6D96-10C4E50779CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D67D0337-9177-3E02-6D96-10C4E50779CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D67D0337-9177-3E02-6D96-10C4E50779CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D67D0337-9177-3E02-6D96-10C4E50779CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
