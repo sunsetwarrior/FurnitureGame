@@ -42,4 +42,7 @@ MonoBehaviour:
   - RequestForPickupItems
   - RequestForPickupTimes
   - TaggedPlayer
+  - DestroyImage
+  - SetImmovable
+  - DeleteGrab
   DisableAutoOpenWizard: 1

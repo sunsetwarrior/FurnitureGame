@@ -90,6 +90,15 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\HeartShape\HeadPosition.cs" />
+    <Compile Include="Assets\HeartShape\Plugins\Pixelplacement\iTween\iTween.cs" />
+    <Compile Include="Assets\HeartShape\Plugins\Pixelplacement\iTween\Sample\MoveSample.cs" />
+    <Compile Include="Assets\HeartShape\Plugins\Pixelplacement\iTween\Sample\RotateSample.cs" />
+    <Compile Include="Assets\HeartShape\Plugins\Pixelplacement\iTween\Sample\SampleInfo.cs" />
+    <Compile Include="Assets\HeartShape\ScalingObj.cs" />
+    <Compile Include="Assets\HeartShape\ScalingObj1.cs" />
+    <Compile Include="Assets\HeartShape\UDPReceive.cs" />
+    <Compile Include="Assets\HeartShape\UDPSend.cs" />
     <Compile Include="Assets\Photon Unity Networking\Demos\Demo2DJumpAndRunWithPhysics\Scripts\Demo2DJumpAndRun.cs" />
     <Compile Include="Assets\Photon Unity Networking\Demos\Demo2DJumpAndRunWithPhysics\Scripts\JumpAndRunMovement.cs" />
     <Compile Include="Assets\Photon Unity Networking\Demos\DemoBoxes\ColorPerPlayer.cs" />
@@ -219,6 +228,7 @@
     <Compile Include="Assets\Photon Unity Networking\UtilityScripts\UI\TextButtonTransition.cs" />
     <Compile Include="Assets\Photon Unity Networking\UtilityScripts\UI\TextToggleIsOnTransition.cs" />
     <Compile Include="Assets\Scripts\CopyScript.cs" />
+    <Compile Include="Assets\Scripts\DectectOwner.cs" />
     <Compile Include="Assets\Scripts\NetWorkManager.cs" />
     <Compile Include="Assets\Scripts\objectActive.cs" />
     <Compile Include="Assets\Scripts\ViveManager.cs" />
@@ -580,6 +590,7 @@
     <Compile Include="Assets\VRTK\SDK\Ximmerse\SDK_XimmerseSystem.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\HeartShape\Plugins\Pixelplacement\iTween\ReadMe!\ReadMe!.txt" />
     <None Include="Assets\Photon Unity Networking\Demos\DemoBoxes\Resources\eurof_tt.txt" />
     <None Include="Assets\Photon Unity Networking\Demos\DemoRockPaperScissors\Assets\OpenSans\Apache License.txt" />
     <None Include="Assets\Photon Unity Networking\Demos\MarcoPolo-Tutorial\marcopolo-readme.txt" />
@@ -589,6 +600,7 @@
     <None Include="Assets\Photon Unity Networking\readme.txt" />
     <None Include="Assets\Plugins\Photon3Unity3D.xml" />
     <None Include="Assets\Plugins\PhotonVoiceApi\readme.txt" />
+    <None Include="Assets\Plugins\Pixelplacement\iTween\ReadMe!\ReadMe!.txt" />
     <None Include="Assets\Plugins\release_history.txt" />
     <None Include="Assets\SteamVR\InteractionSystem\Core\Shaders\SeeThru.shader" />
     <None Include="Assets\SteamVR\InteractionSystem\Core\Shaders\Silhouette.shader" />
