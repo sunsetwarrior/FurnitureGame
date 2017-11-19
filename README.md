@@ -1,11 +1,13 @@
 # FurnitureGame
 
 Control on HTC Vive controller:
+
 use touchpad on left controller to move
 press grip button on left controller to shoot laser 
 hair trigger on right controller to grab and interact with objects
 
 Game features:
+
 Players select from the furniture UI wall to create a furniture.
 When a furniture has been selected, it will be removed from the UI.
 Players can grab the furniture and place them anywhere in the room.
