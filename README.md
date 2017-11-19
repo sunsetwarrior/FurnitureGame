@@ -17,3 +17,5 @@ Players can only control the furniture that they create themselves.
 Author: Zhang Fan, Darren Wong Zhi Ren
 Supervisor: Prof. Mark Billinghurst, Dr. Arindam Dey, Hao Chen
 Organisation: University of South Australia
+
+Furniture.mp4 is the demo video
